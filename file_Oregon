@@ -1,3 +1,5 @@
 a = 5 
 b = 10 
 prin(a+b)
+c = 90
+print(a+b+c+d)
