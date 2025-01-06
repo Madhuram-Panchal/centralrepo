@@ -3,3 +3,5 @@ b = 10
 prin(a+b)
 c = 90
 print(a+b+c+d)
+subtract = a-b 
+print(a-b)
